@@ -22,7 +22,7 @@ const projects = [
     name: 'QR Encoder',
     shortDesc: 'Generate QR codes from any input using Python.',
     details: 'Uses qrcode and Streamlit to create a user-friendly interface. Hosted demo available.',
-    demoLink: 'https://qr-encoder.streamlit.app/',
+    demoLink: '',
     github: 'https://github.com/yourusername/qr-encoder',
   },
 ];
